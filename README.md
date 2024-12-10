@@ -1,6 +1,6 @@
 # Projeto Podcast com Inteligência Artificial
 
-![Imagem do Projeto](imagens/cover.png)
+![Imagem do Projeto](Imagens/perfil.png)
 
 Projeto desenvolvido para criar um podcast utilizando ferramentas de Inteligência Artificial (IA) e técnicas avançadas de criação com prompts otimizados.
 
