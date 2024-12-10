@@ -1,58 +1,57 @@
 # Projeto Podcast com Inteligência Artificial
 
-<p align="center">
-    <img src="imagens/https://github.com/vandinha07/projeto-podcast/blob/main/Imagens/perfil.png?raw=true" alt="Podcast Visual" width="300">
-
+![Imagem do Projeto](imagens/cover.png)
 
 Projeto desenvolvido para criar um podcast utilizando ferramentas de Inteligência Artificial (IA) e técnicas avançadas de criação com prompts otimizados.
 
-🚀 Tecnologias Utilizadas
-ChatGPT :Gerou o roteiro do podcast.
-ElevenLabs :Criou o áudio do podcast a partir do roteiro.
-Apresentadores D -ID AI :Sincronizou o áudio com avatares digitais.
-DALL -E :Criou as imagens visuais do projeto.
-Canva :Organizou e finalizou o vídeo do podcast.
-🧠 Como foi feito?
-Roteiro:
+## 🚀 Tecnologias Utilizadas
+- **ChatGPT**: Gerou o roteiro do podcast.
+- **ElevenLabs**: Criou o áudio do podcast a partir do roteiro.
+- **Apresentadores D-ID AI**: Sincronizou o áudio com avatares digitais.
+- **DALL-E**: Criou as imagens visuais do projeto.
+- **Canva**: Organizou e finalizou o vídeo do podcast.
 
-Criado com prompts no ChatGPT para garantir clareza e engajamento.
-Áudio:
+## 🧠 Como foi feito?
 
-Gerado com ElevenLabs para uma narração natural e fluida.
-Avatar e Sincronização:
+### Roteiro:
+- Criado com prompts no ChatGPT para garantir clareza e engajamento.
 
-Desenvolvido no D-ID AI Presenters, utilizando os áudios gerados.
-Imagens:
+### Áudio:
+- Gerado com ElevenLabs para uma narração natural e fluida.
 
-Produzidas no DALL-E para complementar o visual do podcast.
-Edição Final:
+### Avatar e Sincronização:
+- Desenvolvido no D-ID AI Presenters, utilizando os áudios gerados.
 
-Realizada no Canva, unindo imagens, avatares e áudio em um vídeo.
-📋 Instruções de Execução
+### Imagens:
+- Produzidas no DALL-E para complementar o visual do podcast.
+
+### Edição Final:
+- Realizada no Canva, unindo imagens, avatares e áudio em um vídeo.
+
+## 📋 Instruções de Execução
+
 Siga os passos abaixo para recriar este projeto:
 
-Roteiro com ChatGPT:
+1. **Roteiro com ChatGPT**:
+   - Utilize prompts específicos para gerar o texto do podcast.
+   
+2. **Geração de Áudio no ElevenLabs**:
+   - Converta o texto em áudio com uma voz natural.
+   
+3. **Sincronização no D-ID AI Presenters**:
+   - Importe o áudio e crie um avatar sincronizado.
+   
+4. **Criação de Imagens no DALL-E**:
+   - Use prompts artísticos para gerar imagens exclusivas.
+   
+5. **Edição Final no Canva**:
+   - Combine áudio, avatar e imagens para produzir o vídeo final.
 
-Utilize prompts específicos para gerar o texto do podcast.
-Geração de Áudio no ElevenLabs:
+## 📺 Assista ao Podcast
 
-Converta o texto em áudio com uma voz natural.
-Sincronização no D-ID AI Presenters:
+🎥 Canal no YouTube: [Ruínas Virtuais](https://youtu.be/hJU673M5A5M)  
+📚 Episódio: **Aprenda sobre IAs Generativas**
 
-Importe o áudio e crie um avatar sinc
-Criação de Imagens no DALL-E:
+## 👨‍💻 Créditos
 
-Use prompts artísticos para gerar imagens exclusivas.
-Edição Final no Canva:
-
-Combine áudio, avatar e imagens para produzir ov
-📺 Assista ao Podcast
-🎥 Canal no YouTube: Ruínas Virtuais
-📚 Episódio: Aprenda sobre IAs Generativas
-### 📺 Assista ao Podcast
-
-[Assista no YouTube](https://youtu.be/hJU673M5A5M)
-
-
-👨‍💻 Créditos
-Desenvolvido por Vanda Sant Ana Santos
+Desenvolvido por **Vanda Sant Ana Santos**
