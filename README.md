@@ -1,4 +1,8 @@
-Projeto Podcast com Inteligência Artificial
+# Projeto Podcast com Inteligência Artificial
+
+<p align="center">
+    <img src="imagens/https://github.com/vandinha07/projeto-podcast/blob/main/Imagens/perfil.png?raw=true" alt="Podcast Visual" width="300">
+
 
 Projeto desenvolvido para criar um podcast utilizando ferramentas de Inteligência Artificial (IA) e técnicas avançadas de criação com prompts otimizados.
 
